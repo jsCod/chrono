@@ -1,0 +1,16 @@
+*.sql
+*.txt
+.project
+.buildpath
+.htaccess
+.settings/
+conf/
+documents/
+js/
+css/
+bs/
+DataTables/
+img/
+
+
+#https://github.com/silga/chrono.git
